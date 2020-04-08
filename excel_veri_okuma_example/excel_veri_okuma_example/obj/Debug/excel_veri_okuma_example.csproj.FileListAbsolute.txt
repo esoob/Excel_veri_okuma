@@ -1,0 +1,10 @@
+C:\Users\esmab\Desktop\excel_veri_okuma_example\excel_veri_okuma_example\bin\Debug\excel_veri_okuma_example.exe.config
+C:\Users\esmab\Desktop\excel_veri_okuma_example\excel_veri_okuma_example\bin\Debug\excel_veri_okuma_example.exe
+C:\Users\esmab\Desktop\excel_veri_okuma_example\excel_veri_okuma_example\bin\Debug\excel_veri_okuma_example.pdb
+C:\Users\esmab\Desktop\excel_veri_okuma_example\excel_veri_okuma_example\obj\Debug\excel_veri_okuma_example.csprojAssemblyReference.cache
+C:\Users\esmab\Desktop\excel_veri_okuma_example\excel_veri_okuma_example\obj\Debug\excel_veri_okuma_example.Form1.resources
+C:\Users\esmab\Desktop\excel_veri_okuma_example\excel_veri_okuma_example\obj\Debug\excel_veri_okuma_example.Properties.Resources.resources
+C:\Users\esmab\Desktop\excel_veri_okuma_example\excel_veri_okuma_example\obj\Debug\excel_veri_okuma_example.csproj.GenerateResource.cache
+C:\Users\esmab\Desktop\excel_veri_okuma_example\excel_veri_okuma_example\obj\Debug\excel_veri_okuma_example.csproj.CoreCompileInputs.cache
+C:\Users\esmab\Desktop\excel_veri_okuma_example\excel_veri_okuma_example\obj\Debug\excel_veri_okuma_example.exe
+C:\Users\esmab\Desktop\excel_veri_okuma_example\excel_veri_okuma_example\obj\Debug\excel_veri_okuma_example.pdb
